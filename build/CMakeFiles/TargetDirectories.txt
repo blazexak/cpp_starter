@@ -1,0 +1,3 @@
+/home/zen/repos/cpp_starter/build/CMakeFiles/rebuild_cache.dir
+/home/zen/repos/cpp_starter/build/CMakeFiles/edit_cache.dir
+/home/zen/repos/cpp_starter/build/CMakeFiles/intro.dir
